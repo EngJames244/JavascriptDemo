@@ -1,0 +1,20 @@
+/* Global Style */
+html , body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.fa-chalkboard-teacher{
+  color: #2FB45A;
+}
+.btn-info{
+  background-color: #2FB45A;
+  border : none;
+}
+.btn-info:hover{
+  background-color: #2FB45A;
+  opacity: .8;
+  border : none;
+}
+footer span{
+  color: #2FB45A;
+}
